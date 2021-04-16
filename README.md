@@ -13,6 +13,6 @@ I'm **MOASKO**, a web designer.
 <br /><br />
 
 [![Moasko.dev's github stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=moasko&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,26F596,0499F2)](https://github.com/moasko)
-[![Moasko.dev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wixonic&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0499F2)](https://github.com/moasko)
+[![Moasko.dev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moasko&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0499F2)](https://github.com/moasko)
 [![Moasko.dev's Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=moasko&theme=dark)](https://github.com/moasko)
 [![Moasko.dev's Trophies](https://github-profile-trophy.vercel.app/?username=moasko&no-bg=true&theme=darkhub&row=25&column=5&margin-w=5&margin-h=5)](https://github.com/moasko)
