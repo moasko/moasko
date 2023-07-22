@@ -48,4 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moasko&" alt="moasko" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=moasko&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p>![](https://github-contributor-stats.vercel.app/api?username=moasko&limit=5&theme=flat&combine_all_yearly_contributions=true)</p>
