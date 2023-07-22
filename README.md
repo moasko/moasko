@@ -42,6 +42,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moasko&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moasko&show_icons=true&locale=en&layout=donut" alt="moasko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moasko&show_icons=true&locale=en" alt="moasko" /></p>
